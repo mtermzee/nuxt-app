@@ -73,3 +73,5 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<br>
+For Deployment [deployment] (https://www.vuemastery.com/courses/nuxt-3-essentials/deployment)
